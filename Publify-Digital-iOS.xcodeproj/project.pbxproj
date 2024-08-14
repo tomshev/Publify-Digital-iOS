@@ -14,6 +14,24 @@
 		645AC3842C6C20F300E7AF82 /* Publify_Digital_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645AC3832C6C20F300E7AF82 /* Publify_Digital_iOSTests.swift */; };
 		645AC38E2C6C20F300E7AF82 /* Publify_Digital_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645AC38D2C6C20F300E7AF82 /* Publify_Digital_iOSUITests.swift */; };
 		645AC3902C6C20F300E7AF82 /* Publify_Digital_iOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645AC38F2C6C20F300E7AF82 /* Publify_Digital_iOSUITestsLaunchTests.swift */; };
+		64DEB1CD2C6C63AB003AACD8 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1CC2C6C63AB003AACD8 /* WelcomeView.swift */; };
+		64DEB1CF2C6C6410003AACD8 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1CE2C6C6410003AACD8 /* SignUpView.swift */; };
+		64DEB1D12C6C642D003AACD8 /* ForgotPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1D02C6C642D003AACD8 /* ForgotPasswordView.swift */; };
+		64DEB1D32C6C6442003AACD8 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1D22C6C6442003AACD8 /* MainTabView.swift */; };
+		64DEB1D52C6C645A003AACD8 /* QRCodeScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1D42C6C645A003AACD8 /* QRCodeScannerView.swift */; };
+		64DEB1D72C6C646F003AACD8 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1D62C6C646F003AACD8 /* ProfileView.swift */; };
+		64DEB1D92C6C648B003AACD8 /* ActiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1D82C6C648B003AACD8 /* ActiveView.swift */; };
+		64DEB1DB2C6C649D003AACD8 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1DA2C6C649D003AACD8 /* MapView.swift */; };
+		64DEB1DD2C6C64B3003AACD8 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1DC2C6C64B3003AACD8 /* SettingsView.swift */; };
+		64DEB1DF2C6C64C9003AACD8 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1DE2C6C64C9003AACD8 /* LocationManager.swift */; };
+		64DEB1E12C6C64EA003AACD8 /* CustomTabBarAppearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1E02C6C64EA003AACD8 /* CustomTabBarAppearance.swift */; };
+		64DEB1E32C6C6509003AACD8 /* CustomNavigationBarAppearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1E22C6C6509003AACD8 /* CustomNavigationBarAppearance.swift */; };
+		64DEB1E52C6C651F003AACD8 /* QRCodeScannerVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1E42C6C651F003AACD8 /* QRCodeScannerVM.swift */; };
+		64DEB1E72C6C6538003AACD8 /* ScannedCodeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1E62C6C6538003AACD8 /* ScannedCodeModel.swift */; };
+		64DEB1E92C6C654C003AACD8 /* HelpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1E82C6C654C003AACD8 /* HelpView.swift */; };
+		64DEB1EB2C6C6569003AACD8 /* ControlScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1EA2C6C6569003AACD8 /* ControlScreenView.swift */; };
+		64DEB1ED2C6C6582003AACD8 /* ShareContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1EC2C6C6582003AACD8 /* ShareContentView.swift */; };
+		64DEB1EF2C6C65A0003AACD8 /* PlayGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1EE2C6C65A0003AACD8 /* PlayGameView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +62,24 @@
 		645AC3892C6C20F300E7AF82 /* Publify-Digital-iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Publify-Digital-iOSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		645AC38D2C6C20F300E7AF82 /* Publify_Digital_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Publify_Digital_iOSUITests.swift; sourceTree = "<group>"; };
 		645AC38F2C6C20F300E7AF82 /* Publify_Digital_iOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Publify_Digital_iOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		64DEB1CC2C6C63AB003AACD8 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		64DEB1CE2C6C6410003AACD8 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		64DEB1D02C6C642D003AACD8 /* ForgotPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPasswordView.swift; sourceTree = "<group>"; };
+		64DEB1D22C6C6442003AACD8 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		64DEB1D42C6C645A003AACD8 /* QRCodeScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeScannerView.swift; sourceTree = "<group>"; };
+		64DEB1D62C6C646F003AACD8 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		64DEB1D82C6C648B003AACD8 /* ActiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActiveView.swift; sourceTree = "<group>"; };
+		64DEB1DA2C6C649D003AACD8 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		64DEB1DC2C6C64B3003AACD8 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		64DEB1DE2C6C64C9003AACD8 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		64DEB1E02C6C64EA003AACD8 /* CustomTabBarAppearance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarAppearance.swift; sourceTree = "<group>"; };
+		64DEB1E22C6C6509003AACD8 /* CustomNavigationBarAppearance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavigationBarAppearance.swift; sourceTree = "<group>"; };
+		64DEB1E42C6C651F003AACD8 /* QRCodeScannerVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeScannerVM.swift; sourceTree = "<group>"; };
+		64DEB1E62C6C6538003AACD8 /* ScannedCodeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannedCodeModel.swift; sourceTree = "<group>"; };
+		64DEB1E82C6C654C003AACD8 /* HelpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpView.swift; sourceTree = "<group>"; };
+		64DEB1EA2C6C6569003AACD8 /* ControlScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlScreenView.swift; sourceTree = "<group>"; };
+		64DEB1EC2C6C6582003AACD8 /* ShareContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareContentView.swift; sourceTree = "<group>"; };
+		64DEB1EE2C6C65A0003AACD8 /* PlayGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayGameView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +134,24 @@
 				645AC3742C6C20F200E7AF82 /* ContentView.swift */,
 				645AC3762C6C20F300E7AF82 /* Assets.xcassets */,
 				645AC3782C6C20F300E7AF82 /* Preview Content */,
+				64DEB1CC2C6C63AB003AACD8 /* WelcomeView.swift */,
+				64DEB1CE2C6C6410003AACD8 /* SignUpView.swift */,
+				64DEB1D02C6C642D003AACD8 /* ForgotPasswordView.swift */,
+				64DEB1D22C6C6442003AACD8 /* MainTabView.swift */,
+				64DEB1D42C6C645A003AACD8 /* QRCodeScannerView.swift */,
+				64DEB1D62C6C646F003AACD8 /* ProfileView.swift */,
+				64DEB1D82C6C648B003AACD8 /* ActiveView.swift */,
+				64DEB1DA2C6C649D003AACD8 /* MapView.swift */,
+				64DEB1DC2C6C64B3003AACD8 /* SettingsView.swift */,
+				64DEB1DE2C6C64C9003AACD8 /* LocationManager.swift */,
+				64DEB1E02C6C64EA003AACD8 /* CustomTabBarAppearance.swift */,
+				64DEB1E22C6C6509003AACD8 /* CustomNavigationBarAppearance.swift */,
+				64DEB1E42C6C651F003AACD8 /* QRCodeScannerVM.swift */,
+				64DEB1E62C6C6538003AACD8 /* ScannedCodeModel.swift */,
+				64DEB1E82C6C654C003AACD8 /* HelpView.swift */,
+				64DEB1EA2C6C6569003AACD8 /* ControlScreenView.swift */,
+				64DEB1EC2C6C6582003AACD8 /* ShareContentView.swift */,
+				64DEB1EE2C6C65A0003AACD8 /* PlayGameView.swift */,
 			);
 			path = "Publify-Digital-iOS";
 			sourceTree = "<group>";
@@ -257,8 +311,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64DEB1EB2C6C6569003AACD8 /* ControlScreenView.swift in Sources */,
+				64DEB1E12C6C64EA003AACD8 /* CustomTabBarAppearance.swift in Sources */,
+				64DEB1D72C6C646F003AACD8 /* ProfileView.swift in Sources */,
+				64DEB1E52C6C651F003AACD8 /* QRCodeScannerVM.swift in Sources */,
+				64DEB1EF2C6C65A0003AACD8 /* PlayGameView.swift in Sources */,
+				64DEB1D52C6C645A003AACD8 /* QRCodeScannerView.swift in Sources */,
+				64DEB1CF2C6C6410003AACD8 /* SignUpView.swift in Sources */,
+				64DEB1D92C6C648B003AACD8 /* ActiveView.swift in Sources */,
+				64DEB1E92C6C654C003AACD8 /* HelpView.swift in Sources */,
+				64DEB1ED2C6C6582003AACD8 /* ShareContentView.swift in Sources */,
 				645AC3752C6C20F200E7AF82 /* ContentView.swift in Sources */,
+				64DEB1CD2C6C63AB003AACD8 /* WelcomeView.swift in Sources */,
+				64DEB1D12C6C642D003AACD8 /* ForgotPasswordView.swift in Sources */,
+				64DEB1E72C6C6538003AACD8 /* ScannedCodeModel.swift in Sources */,
+				64DEB1DB2C6C649D003AACD8 /* MapView.swift in Sources */,
+				64DEB1DF2C6C64C9003AACD8 /* LocationManager.swift in Sources */,
 				645AC3732C6C20F200E7AF82 /* Publify_Digital_iOSApp.swift in Sources */,
+				64DEB1D32C6C6442003AACD8 /* MainTabView.swift in Sources */,
+				64DEB1E32C6C6509003AACD8 /* CustomNavigationBarAppearance.swift in Sources */,
+				64DEB1DD2C6C64B3003AACD8 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -425,6 +497,9 @@
 				DEVELOPMENT_TEAM = BWPWJFK4S7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to your camera to scan QR codes.";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "We need your location to show nearby public screens at all times.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need your location to show nearby public screens.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -454,6 +529,9 @@
 				DEVELOPMENT_TEAM = BWPWJFK4S7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to your camera to scan QR codes.";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "We need your location to show nearby public screens at all times.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need your location to show nearby public screens.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
