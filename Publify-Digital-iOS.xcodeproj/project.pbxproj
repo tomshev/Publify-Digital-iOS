@@ -32,6 +32,7 @@
 		64DEB1EB2C6C6569003AACD8 /* ControlScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1EA2C6C6569003AACD8 /* ControlScreenView.swift */; };
 		64DEB1ED2C6C6582003AACD8 /* ShareContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1EC2C6C6582003AACD8 /* ShareContentView.swift */; };
 		64DEB1EF2C6C65A0003AACD8 /* PlayGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DEB1EE2C6C65A0003AACD8 /* PlayGameView.swift */; };
+		64DEB1F12C6C66B6003AACD8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 64DEB1F02C6C66B6003AACD8 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,7 @@
 		64DEB1EA2C6C6569003AACD8 /* ControlScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlScreenView.swift; sourceTree = "<group>"; };
 		64DEB1EC2C6C6582003AACD8 /* ShareContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareContentView.swift; sourceTree = "<group>"; };
 		64DEB1EE2C6C65A0003AACD8 /* PlayGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayGameView.swift; sourceTree = "<group>"; };
+		64DEB1F02C6C66B6003AACD8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 		645AC3662C6C20F200E7AF82 = {
 			isa = PBXGroup;
 			children = (
+				64DEB1F02C6C66B6003AACD8 /* README.md */,
 				645AC3712C6C20F200E7AF82 /* Publify-Digital-iOS */,
 				645AC3822C6C20F300E7AF82 /* Publify-Digital-iOSTests */,
 				645AC38C2C6C20F300E7AF82 /* Publify-Digital-iOSUITests */,
@@ -285,6 +288,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64DEB1F12C6C66B6003AACD8 /* README.md in Resources */,
 				645AC37A2C6C20F300E7AF82 /* Preview Assets.xcassets in Resources */,
 				645AC3772C6C20F300E7AF82 /* Assets.xcassets in Resources */,
 			);
